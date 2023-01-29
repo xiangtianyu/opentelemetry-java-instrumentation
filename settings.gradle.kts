@@ -487,6 +487,7 @@ hideFromDependabot(":instrumentation:vibur-dbcp-11.0:javaagent")
 hideFromDependabot(":instrumentation:vibur-dbcp-11.0:library")
 hideFromDependabot(":instrumentation:vibur-dbcp-11.0:testing")
 hideFromDependabot(":instrumentation:wicket-8.0:javaagent")
+hideFromDependabot(":instrumentation:bjwzds:javaagent")
 
 // benchmark
 include(":benchmark-overhead-jmh")
